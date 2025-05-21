@@ -1,2 +1,13 @@
-# BlockFund-dapp
-BlockFund is a blockchain-based platform that connects student innovators with mentors and investors. It ensures idea security, transparent funding, and milestone-based smart contract releases, empowering young creators to bring their projects to life with trust and support.
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat ignition deploy ./ignition/modules/Lock.js
+```
