@@ -1,13 +1,18 @@
-# Sample Hardhat Project
+# BlockFund - Decentralized Crowdfunding App
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## 🚀 Introduction
+BlockFund is a blockchain-based crowdfunding platform where creators can post campaigns, and users can fund them securely using Ethereum. Funds are only transferred if goals are met.
 
-Try running some of the following tasks:
+## 🛠 Tech Stack
+- Solidity (Smart Contract)
+- React.js (Frontend)
+- Hardhat (Ethereum Development Framework)
+- MetaMask (Wallet Integration)
+- Ethers.js
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## 📂 Setup Instructions
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/your-username/blockfund.git
+cd blockfund
