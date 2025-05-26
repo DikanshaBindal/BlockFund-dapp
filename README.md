@@ -1,18 +1,43 @@
-# 🚀 BlockFund - Decentralized Crowdfunding Platform
+BlockFund - Decentralized Crowdfunding dApp
 
-BlockFund is a decentralized crowdfunding DApp built on Ethereum using smart contracts. Campaign creators can raise funds securely, and contributors fund campaigns using MetaMask. Funds are only transferred if goals are met.
+🚀 Introduction
 
----
+BlockFund is a decentralized crowdfunding platform built on the Ethereum blockchain. It enables project creators to raise funds transparently, while backers can contribute safely via their wallets (MetaMask). Funds are transferred only when the campaign goals are met.
 
-## 🧱 Tech Stack
+🎯 Features
 
-- **Solidity** – Smart Contract Language  
-- **React.js** – Frontend Framework  
-- **Hardhat** – Ethereum Development Environment  
-- **Ethers.js** – Ethereum JavaScript Library  
-- **MetaMask** – Wallet Integration
+Create and manage fundraising campaigns.
 
----
+Contribute to campaigns using Ethereum.
+
+Smart contract ensures goal-based fund release.
+
+Integrated with MetaMask for secure wallet interactions.
+
+🛠 Tech Stack
+
+Solidity: Smart contract language.
+
+Hardhat: Ethereum development framework.
+
+React.js: Frontend library for user interface.
+
+Ethers.js: Ethereum wallet and blockchain interaction library.
+
+MetaMask: Wallet integration.
+
+⚙️ Prerequisites
+
+Make sure you have the following installed:
+
+Node.js
+
+npm
+
+MetaMask
+
+Text Editor (e.g., VS Code)
+
 
 ## 📁 Project Structure
 
