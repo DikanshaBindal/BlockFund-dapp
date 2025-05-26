@@ -125,11 +125,6 @@ We welcome contributions! Please fork the repository and open a pull request wit
 
 ---
 
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 📞 Contact
 
