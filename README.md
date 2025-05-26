@@ -133,18 +133,13 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-* Project Lead: \[Your Name]
-* GitHub: \[@your-username]
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Project Lead: Dikansha Bindal
+* GitHub: DikanshaBindal
+* Email: dikanshabindal@gmail.com
 
 ---
 
 Happy building with BlockFund! ✨
-
-
-Contributor analytics
-
-Admin dashboard
 
 
 
