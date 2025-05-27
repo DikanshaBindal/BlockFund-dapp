@@ -1,5 +1,11 @@
 # BlockFund - Decentralized Crowdfunding dApp
 
+## 📚 Table of Contents
+
+1. Introduction
+2. Project Vision
+3. Features
+
 ## 📝 Introduction
 
 BlockFund is a decentralized crowdfunding platform that leverages blockchain technology to ensure transparency, security, and trust between fundraisers and donors. Unlike traditional crowdfunding platforms that act as centralized authorities, BlockFund eliminates intermediaries and empowers users to directly contribute to causes and startups with complete visibility over fund utilization.
