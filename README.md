@@ -27,10 +27,45 @@ Through BlockFund, we aim to democratize access to funding and create a world wh
 
 ## 🎯 Features
 
-* Create and manage fundraising campaigns.
-* Contribute to campaigns using Ethereum.
-* Smart contract ensures goal-based fund release.
-* Integrated with MetaMask for secure wallet interactions.
+1. Decentralized Campaign Creation
+
+Any user with a Web3 wallet can create and deploy their own campaign without the need for third-party approval.
+
+2. Smart Contract-Powered Fund Management
+
+Funds are locked in smart contracts and can only be withdrawn based on predefined conditions, such as reaching milestones or completing project phases.
+
+3. MetaMask Integration
+
+Easy login and transaction signing using the MetaMask wallet ensures user autonomy and data ownership.
+
+4. Transparent Transaction Ledger
+
+Every transaction is recorded on the blockchain and can be verified in real-time via a block explorer link.
+
+5. Real-Time Wallet Balance Display
+
+Users can check their current wallet balance and transaction history through an intuitive dashboard.
+
+6. Community Trust System
+
+Reputation scores and donor feedback mechanisms help in identifying legitimate and impactful campaigns.
+
+7. User-Friendly Frontend Interface
+
+Built using React.js, the interface is clean, modern, and responsive across devices, ensuring a smooth UX.
+
+8. Fraud Prevention via Smart Contract Logic
+
+Campaign creators cannot access funds arbitrarily; the contract enforces rules to protect donor interests.
+
+9. Milestone-Based Funding Releases
+
+Campaigns can be structured with multiple phases, and funds are released only after milestones are verified.
+
+10. Admin & Analytics Panel (Future)
+
+Monitor campaign performance, user engagement, and funding metrics for platform growth and improvements.
 
 ---
 ## 📁 Project Structure
