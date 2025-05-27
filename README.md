@@ -193,22 +193,13 @@ npx hardhat test
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions! Please fork the repository and open a pull request with your changes.
+
+
 
 ---
 
 
-## 📞 Contact
-
-* Project Lead: Dikansha Bindal
-* GitHub: DikanshaBindal
-* Email: dikanshabindal@gmail.com
-
----
-
-Happy building with BlockFund! ✨
 
 
 
