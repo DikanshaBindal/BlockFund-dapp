@@ -16,19 +16,20 @@ BlockFund aims to bring a shift in the way funding ecosystems function — from 
 
 ## 🚀 Project Vision
 
-Our vision for BlockFund is to create a globally accessible, tamper-proof, and fair crowdfunding ecosystem where innovation and social causes thrive without barriers. We envision a platform where:
+- Our vision for BlockFund is to create a globally accessible, tamper-proof, and fair crowdfunding ecosystem where innovation and social causes thrive without 
+  barriers. We envision a platform where:
 
-Creators, innovators, and NGOs can raise funds globally without relying on third-party intermediaries.
+- Creators, innovators, and NGOs can raise funds globally without relying on third-party intermediaries.
 
-Every transaction is traceable and verifiable, enhancing donor trust.
+- Every transaction is traceable and verifiable, enhancing donor trust.
 
-Fund release is governed by smart contracts, ensuring accountability.
+- Fund release is governed by smart contracts, ensuring accountability.
 
-A community-driven reputation system rewards honesty and innovation.
+- A community-driven reputation system rewards honesty and innovation.
 
-Cross-border donations and funding become seamless and gas-efficient.
+- Cross-border donations and funding become seamless and gas-efficient.
 
-Through BlockFund, we aim to democratize access to funding and create a world where ideas flourish because of collective trust, not centralized control.
+- Through BlockFund, we aim to democratize access to funding and create a world where ideas flourish because of collective trust, not centralized control.
 
 
 ## 🎯 Features
