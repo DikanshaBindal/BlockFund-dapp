@@ -1,12 +1,16 @@
+const { ethers } = require("hardhat");
+
 async function main() {
   const [deployer] = await ethers.getSigners();
 
   console.log("Deploying contracts with the account:", deployer.address);
 
   const BlockFund = await ethers.getContractFactory("BlockFund");
-  const blockFund = await BlockFund.deploy();  // deploy and wait automatically
+  const blockFund = await BlockFund.deploy();
 
-  console.log("BlockFund deployed to:", blockFund.target); // ethers v6 uses .target (not .address)
+  await blockFund.waitForDeployment();
+
+  console.log("BlockFund deployed to:", blockFund.target);
 }
 
 main()
