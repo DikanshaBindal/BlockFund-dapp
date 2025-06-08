@@ -9,8 +9,6 @@
 - [Project Structure](#project-structure)
 - [Future Scope](#future-scope)
 - [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Project Setup](#project-setup)
 - [Frontend Showcase](#frontend-showcase)
 - [Contract Address](#contract-address)
 
@@ -43,43 +41,43 @@ BlockFund aims to bring a shift in the way funding ecosystems function — from 
 
 ## 🎯 Features
 
-### Decentralized Campaign Creation
+* Decentralized Campaign Creation
 
 Any user with a Web3 wallet can create and deploy their own campaign without the need for third-party approval.
 
-### Smart Contract-Powered Fund Management
+* Smart Contract-Powered Fund Management
 
 Funds are locked in smart contracts and can only be withdrawn based on predefined conditions, such as reaching milestones or completing project phases.
 
-### MetaMask Integration
+* MetaMask Integration
 
 Easy login and transaction signing using the MetaMask wallet ensures user autonomy and data ownership.
 
-### Transparent Transaction Ledger
+* Transparent Transaction Ledger
 
 Every transaction is recorded on the blockchain and can be verified in real-time via a block explorer link.
 
-### Real-Time Wallet Balance Display
+* Real-Time Wallet Balance Display
 
 Users can check their current wallet balance and transaction history through an intuitive dashboard.
 
-### Community Trust System
+* Community Trust System
 
 Reputation scores and donor feedback mechanisms help in identifying legitimate and impactful campaigns.
 
-### User-Friendly Frontend Interface
+* User-Friendly Frontend Interface
 
 Built using React.js, the interface is clean, modern, and responsive across devices, ensuring a smooth UX.
 
-### Fraud Prevention via Smart Contract Logic
+* Fraud Prevention via Smart Contract Logic
 
 Campaign creators cannot access funds arbitrarily; the contract enforces rules to protect donor interests.
 
-### Milestone-Based Funding Releases
+* Milestone-Based Funding Releases
 
 Campaigns can be structured with multiple phases, and funds are released only after milestones are verified.
 
-### Admin & Analytics Panel (Future)
+* Admin & Analytics Panel (Future)
 
 Monitor campaign performance, user engagement, and funding metrics for platform growth and improvements.
 
@@ -97,6 +95,7 @@ blockfund/
 │       └── contractABI.js
 ├── hardhat.config.js       # Hardhat configuration
 └── README.md
+```
 
 
 ## 🔭 Future Scope
