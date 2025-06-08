@@ -7,9 +7,10 @@ Introduction
 Project Vision
 Key Features
 Project Structure
+Future Scope
 Tech Stack
 Prerequisites
-Future Scope
+Project Setup
 Frontend Showcase
 Contract Address
 
@@ -124,87 +125,6 @@ Integration with UPI/Crypto Onramps: Make it easy for non-crypto users to donate
 
 ---
 
-## ⚙️ Prerequisites
-
-Make sure you have the following installed:
-
-* [Node.js](https://nodejs.org/)
-* [npm](https://www.npmjs.com/)
-* [MetaMask](https://metamask.io/)
-* Text Editor (e.g., VS Code)
-
----
-
-## 📦 Project Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/blockfund.git
-cd blockfund
-```
-
-### 2. Install Dependencies
-
-#### For Smart Contract (Hardhat)
-
-```bash
-npm install
-```
-
-#### For Frontend (React)
-
-```bash
-cd frontend
-npm install
-```
-
-### 3. Compile & Deploy Contract
-
-```bash
-npx hardhat compile
-npx hardhat run scripts/deploy.js --network testnet
-```
-
-> After deployment, note the contract address and update it in the frontend.
-
----
-
-## 🔗 Configure Frontend
-
-### 4. Set Up ABI and Address
-
-* Copy the `ABI` from `artifacts/contracts/YourContract.sol/YourContract.json`.
-* Create a new file `contract.js` inside `frontend/src`:
-
-```javascript
-export const contractABI = [/* paste your ABI here */];
-export const contractAddress = "0xYourDeployedContractAddress";
-```
-
-### 5. Start Frontend
-
-```bash
-cd frontend
-npm start
-```
-
-The app will run at `http://localhost:3000`
-
----
-
-## 🌐 MetaMask Testnet Configuration
-
-To interact with your contract, switch MetaMask to the test network (e.g., Goerli or Core Testnet).
-
-## 🧪 Testing
-
-You can write your contract tests inside the `/test` folder and run them using:
-
-```bash
-npx hardhat test
-```
-
 ---
 ## Frontend Showcase
 
@@ -212,24 +132,39 @@ To provide a clear view of the user experience and interface, below are some scr
 
 DEMO VIDEO
 
+
+
+https://github.com/user-attachments/assets/b19939c0-2f86-4364-a359-71f7b2170630
+
+
+
 SCREENSHOTS
+
 ![image](https://github.com/user-attachments/assets/c194feb6-e9dc-41ad-9ed9-035ee526b0ea)
+
 
 ![image](https://github.com/user-attachments/assets/c6ed906b-06f0-4c95-8508-e3c9f63f3233)
 
+
 ![image](https://github.com/user-attachments/assets/7a63ff9b-b28f-44a2-9920-99a0292993b7)
+
 
 ![image](https://github.com/user-attachments/assets/b0a4e22e-67e6-48d4-8934-1b28878e7bbe)
 
+
 ![image](https://github.com/user-attachments/assets/c73ad1e6-5755-49ee-82f5-d3ac41c3e0ff)
+
 
 ![image](https://github.com/user-attachments/assets/9f550ea1-44ae-459b-adc7-dc01a98ccddf)
 
 
 
+
 ---
+
 ## Contract Address
 0x3807461C6c4A111404B8408463786F51fa827a5a
+
 ![image](https://github.com/user-attachments/assets/7bbc3ab4-ba51-4560-8b89-f9f01a38de8e)
 
 
