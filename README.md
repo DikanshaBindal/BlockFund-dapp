@@ -99,23 +99,23 @@ blockfund/
 
 
 ## 🔭 Future Scope
-BlockFund is designed with scalability and extensibility in mind. In future releases, the platform could evolve into a full-fledged Web3 fundraising ecosystem with the following features:
+* BlockFund is designed with scalability and extensibility in mind. In future releases, the platform could evolve into a full-fledged Web3 fundraising ecosystem with the following features:
 
-Multi-chain Support: Integrate other EVM-compatible blockchains like Polygon, Binance Smart Chain, and Aptos for lower gas fees and faster transactions.
+* Multi-chain Support: Integrate other EVM-compatible blockchains like Polygon, Binance Smart Chain, and Aptos for lower gas fees and faster transactions.
 
-DAO Integration: Implement a decentralized governance model where the community votes on campaigns, funding decisions, and platform rules.
+* DAO Integration: Implement a decentralized governance model where the community votes on campaigns, funding decisions, and platform rules.
 
-KYC & Compliance Module: Onboard verifiable ID processes for campaigns that require legal compliance (especially for NGOs and health-related fundraisers).
+* KYC & Compliance Module: Onboard verifiable ID processes for campaigns that require legal compliance (especially for NGOs and health-related fundraisers).
 
-Mobile App Development: A fully responsive mobile application for real-time campaign monitoring and fund contribution.
+* Mobile App Development: A fully responsive mobile application for real-time campaign monitoring and fund contribution.
 
-NFT Rewards: Introduce campaign-specific NFTs as rewards for donors, which can also hold real-world benefits or resale value.
+* NFT Rewards: Introduce campaign-specific NFTs as rewards for donors, which can also hold real-world benefits or resale value.
 
-Analytics Dashboard: Advanced visual analytics to track funding trends, campaign success rates, and donor behavior.
+* Analytics Dashboard: Advanced visual analytics to track funding trends, campaign success rates, and donor behavior.
 
-AI-Powered Campaign Recommendations: Suggest trending and verified campaigns to users based on donation history and preferences.
+* AI-Powered Campaign Recommendations: Suggest trending and verified campaigns to users based on donation history and preferences.
 
-Integration with UPI/Crypto Onramps: Make it easy for non-crypto users to donate using fiat currency through payment gateways.
+* Integration with UPI/Crypto Onramps: Make it easy for non-crypto users to donate using fiat currency through payment gateways.
 
 ## 🛠 Tech Stack
 
