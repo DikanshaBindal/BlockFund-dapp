@@ -2,9 +2,16 @@
 
 ## 📚 Table of Contents
 
-1. Introduction
-2. Project Vision
-3. Features
+Project Title
+Introduction
+Project Vision
+Key Features
+Project Structure
+Tech Stack
+Prerequisites
+Future Scope
+Frontend Showcase
+Contract Address
 
 ## 📝 Introduction
 
@@ -199,12 +206,31 @@ npx hardhat test
 ```
 
 ---
+## Frontend Showcase
 
+To provide a clear view of the user experience and interface, below are some screenshots and demo videos of the frontend.
 
+DEMO VIDEO
+
+SCREENSHOTS
+![image](https://github.com/user-attachments/assets/c194feb6-e9dc-41ad-9ed9-035ee526b0ea)
+
+![image](https://github.com/user-attachments/assets/c6ed906b-06f0-4c95-8508-e3c9f63f3233)
+
+![image](https://github.com/user-attachments/assets/7a63ff9b-b28f-44a2-9920-99a0292993b7)
+
+![image](https://github.com/user-attachments/assets/b0a4e22e-67e6-48d4-8934-1b28878e7bbe)
+
+![image](https://github.com/user-attachments/assets/c73ad1e6-5755-49ee-82f5-d3ac41c3e0ff)
+
+![image](https://github.com/user-attachments/assets/9f550ea1-44ae-459b-adc7-dc01a98ccddf)
 
 
 
 ---
+## Contract Address
+0x3807461C6c4A111404B8408463786F51fa827a5a
+![image](https://github.com/user-attachments/assets/7bbc3ab4-ba51-4560-8b89-f9f01a38de8e)
 
 
 
