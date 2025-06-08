@@ -1,27 +1,19 @@
 # BlockFund - Decentralized Crowdfunding dApp
 
-📚 Table of Contents
-Project Title
+## 📚 Table of Contents
 
-Introduction
+- [Project Title](#project-title)
+- [Introduction](#introduction)
+- [Project Vision](#project-vision)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Future Scope](#future-scope)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Project Setup](#project-setup)
+- [Frontend Showcase](#frontend-showcase)
+- [Contract Address](#contract-address)
 
-Project Vision
-
-Key Features
-
-Project Structure
-
-Future Scope
-
-Tech Stack
-
-Prerequisites
-
-Project Setup
-
-Frontend Showcase
-
-Contract Address
 
 ## 📝 Introduction
 
@@ -51,59 +43,61 @@ BlockFund aims to bring a shift in the way funding ecosystems function — from 
 
 ## 🎯 Features
 
-1. Decentralized Campaign Creation
+### Decentralized Campaign Creation
 
 Any user with a Web3 wallet can create and deploy their own campaign without the need for third-party approval.
 
-2. Smart Contract-Powered Fund Management
+### Smart Contract-Powered Fund Management
 
 Funds are locked in smart contracts and can only be withdrawn based on predefined conditions, such as reaching milestones or completing project phases.
 
-3. MetaMask Integration
+### MetaMask Integration
 
 Easy login and transaction signing using the MetaMask wallet ensures user autonomy and data ownership.
 
-4. Transparent Transaction Ledger
+### Transparent Transaction Ledger
 
 Every transaction is recorded on the blockchain and can be verified in real-time via a block explorer link.
 
-5. Real-Time Wallet Balance Display
+### Real-Time Wallet Balance Display
 
 Users can check their current wallet balance and transaction history through an intuitive dashboard.
 
-6. Community Trust System
+### Community Trust System
 
 Reputation scores and donor feedback mechanisms help in identifying legitimate and impactful campaigns.
 
-7. User-Friendly Frontend Interface
+### User-Friendly Frontend Interface
 
 Built using React.js, the interface is clean, modern, and responsive across devices, ensuring a smooth UX.
 
-8. Fraud Prevention via Smart Contract Logic
+### Fraud Prevention via Smart Contract Logic
 
 Campaign creators cannot access funds arbitrarily; the contract enforces rules to protect donor interests.
 
-9. Milestone-Based Funding Releases
+### Milestone-Based Funding Releases
 
 Campaigns can be structured with multiple phases, and funds are released only after milestones are verified.
 
-10. Admin & Analytics Panel (Future)
+### Admin & Analytics Panel (Future)
 
 Monitor campaign performance, user engagement, and funding metrics for platform growth and improvements.
 
 ---
 ## 📁 Project Structure
 
+```bash
 blockfund/
-├── contracts/ # Smart contract files (Solidity)
-├── scripts/ # Deployment scripts
-├── frontend/ # React frontend
-│ └── src/
-│ ├── App.js
-│ ├── components/
-│ └── contractABI.js
-├── hardhat.config.js # Hardhat configuration
+├── contracts/              # Smart contract files (Solidity)
+├── scripts/                # Deployment scripts
+├── frontend/               # React frontend
+│   └── src/
+│       ├── App.js
+│       ├── components/
+│       └── contractABI.js
+├── hardhat.config.js       # Hardhat configuration
 └── README.md
+
 
 ## 🔭 Future Scope
 BlockFund is designed with scalability and extensibility in mind. In future releases, the platform could evolve into a full-fledged Web3 fundraising ecosystem with the following features:
@@ -149,20 +143,26 @@ https://github.com/user-attachments/assets/b19939c0-2f86-4364-a359-71f7b2170630
 
 SCREENSHOTS
 
+1:"Launch New Project" form on BlockFund DApp to create a crowdfunding campaign.
+
+
 ![image](https://github.com/user-attachments/assets/c194feb6-e9dc-41ad-9ed9-035ee526b0ea)
 
+ 2:Dashboard displaying a list of active crowdfunding projects with options to donate or approve funding.
 
 ![image](https://github.com/user-attachments/assets/c6ed906b-06f0-4c95-8508-e3c9f63f3233)
 
+3:Left: Project creation with sample input values; Right: MetaMask confirmation pop-up for transaction.
 
 ![image](https://github.com/user-attachments/assets/7a63ff9b-b28f-44a2-9920-99a0292993b7)
 
+4:Success confirmation message after a project is launched and listed under ongoing campaigns.
 
 ![image](https://github.com/user-attachments/assets/b0a4e22e-67e6-48d4-8934-1b28878e7bbe)
 
+ 5:Detailed view of a single project with donation input, donor list, and funding progress.
 
 ![image](https://github.com/user-attachments/assets/c73ad1e6-5755-49ee-82f5-d3ac41c3e0ff)
-
 
 ![image](https://github.com/user-attachments/assets/9f550ea1-44ae-459b-adc7-dc01a98ccddf)
 
