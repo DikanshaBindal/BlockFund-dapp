@@ -1,17 +1,26 @@
 # BlockFund - Decentralized Crowdfunding dApp
 
-## 📚 Table of Contents
-
+📚 Table of Contents
 Project Title
+
 Introduction
+
 Project Vision
+
 Key Features
+
 Project Structure
+
 Future Scope
+
 Tech Stack
+
 Prerequisites
+
 Project Setup
+
 Frontend Showcase
+
 Contract Address
 
 ## 📝 Introduction
