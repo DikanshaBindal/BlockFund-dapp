@@ -1,5 +1,4 @@
 # BlockFund - Decentralized Crowdfunding dApp
-![ee9aa7f6-8042-4ba1-ac58-b9196d900ce0](https://github.com/user-attachments/assets/b18f4b84-aaf7-4e04-a5f2-2a95261351c7)
 
 ## 📚 Table of Contents
 
